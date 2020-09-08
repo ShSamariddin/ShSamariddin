@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Samariddin and I am:
 
 - :computer: currently working in  [Huawei ](https://www.huawei.com/en/) as a Software Engineer
-- :man_student: I'am doing Computer Science major at the [National Research ITMO University](https://en.itmo.ru/en/) and [Computer Science Center
+- :man_student: I'am doing Computer Science major at the [National Research ITMO University](https://en.itmo.ru/en/).
 - :page_with_curl **Python** and **Video compression**
 <!-- - :heart_eyes: fascinated about concurrent programming-->
 
